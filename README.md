@@ -3,7 +3,7 @@ Google Hackathon
 
 **Introduction**
 
-*This Movie Recommendation System takes in the name of a movie and recommends similar movies based on the dataset. The recommendation process is powered by the google. generative-ai(presumably a mock-up API for the purpose of this example), which utilises a generative model to provide movie suggestions.
+This Movie Recommendation System takes in the name of a movie and recommends similar movies based on the dataset. The recommendation process is powered by the google. generative-ai(presumably a mock-up API for the purpose of this example), which utilises a generative model to provide movie suggestions.
 
 **Requirements**
 
