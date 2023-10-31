@@ -13,12 +13,12 @@ This Movie Recommendation System takes in the name of a movie and recommends sim
     * ipywidgets
     * pandas
     * IPython
-* Data: A CSV file named tmdb_5000_movies.csv containing a list of movie names.
+* Data: A CSV file named IMDBDataset.csv containing a list of movie names.
   
 **Setup**
 
 * Set your PALM API key: You can either set it as an environment variable or directly in the code. python Copy code:  PALM_API_KEY = os.getenv("PALM_API_KEY", "YOUR_API_KEY_HERE") 
-* Load the movie dataset: The tmdb_5000_movies.csv file is loaded into a pandas dataframe and then converted to a list of movie names.
+* Load the movie dataset: The IMDBDataset.csv file is loaded into a pandas dataframe and then converted to a list of movie names.
   
 **Usage**
 
